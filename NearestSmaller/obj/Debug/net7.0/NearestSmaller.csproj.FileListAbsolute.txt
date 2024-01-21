@@ -1,0 +1,15 @@
+D:\Source\repos\NearestSmaller\ConsoleApp5\bin\Debug\net7.0\NearestSmaller.exe
+D:\Source\repos\NearestSmaller\ConsoleApp5\bin\Debug\net7.0\NearestSmaller.deps.json
+D:\Source\repos\NearestSmaller\ConsoleApp5\bin\Debug\net7.0\NearestSmaller.runtimeconfig.json
+D:\Source\repos\NearestSmaller\ConsoleApp5\bin\Debug\net7.0\NearestSmaller.dll
+D:\Source\repos\NearestSmaller\ConsoleApp5\bin\Debug\net7.0\NearestSmaller.pdb
+D:\Source\repos\NearestSmaller\ConsoleApp5\obj\Debug\net7.0\NearestSmaller.csproj.AssemblyReference.cache
+D:\Source\repos\NearestSmaller\ConsoleApp5\obj\Debug\net7.0\NearestSmaller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\repos\NearestSmaller\ConsoleApp5\obj\Debug\net7.0\NearestSmaller.AssemblyInfoInputs.cache
+D:\Source\repos\NearestSmaller\ConsoleApp5\obj\Debug\net7.0\NearestSmaller.AssemblyInfo.cs
+D:\Source\repos\NearestSmaller\ConsoleApp5\obj\Debug\net7.0\NearestSmaller.csproj.CoreCompileInputs.cache
+D:\Source\repos\NearestSmaller\ConsoleApp5\obj\Debug\net7.0\NearestSmaller.dll
+D:\Source\repos\NearestSmaller\ConsoleApp5\obj\Debug\net7.0\refint\NearestSmaller.dll
+D:\Source\repos\NearestSmaller\ConsoleApp5\obj\Debug\net7.0\NearestSmaller.pdb
+D:\Source\repos\NearestSmaller\ConsoleApp5\obj\Debug\net7.0\NearestSmaller.genruntimeconfig.cache
+D:\Source\repos\NearestSmaller\ConsoleApp5\obj\Debug\net7.0\ref\NearestSmaller.dll
